@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherAppFlow</string>
+    <string name="welcome_message">Welcome to Weather Flow App</string>
+    <string name="common_weather">Weather</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="no_internet_message_body">Please double-check your internet connection and try again.</string>
+    <string name="permission_reason">In order to get forecast for your current location, please the application location permission</string>
+    <string name="turn_on_your_location">Please turn on your location</string>
+    <string name="turn_on_internet">To complete this action please connect to internet and try again</string>
+    <string name="temperature_feels_like">Feels like %1s</string>
+</resources>
